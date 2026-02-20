@@ -56,29 +56,29 @@ def classify_gesture(fingers, landmarks):
     if fingers == [False, True, False, False, False]:
         return "ANSWER_A"
 
-    if fingers == [False, True, True, False, False]:
+    elif fingers == [False, True, True, False, False]:
         return "ANSWER_B"
 
-    if fingers == [False, True, True, True, False]:
+    elif fingers == [False, True, True, True, False]:
         return "ANSWER_C"
 
-    if fingers == [False, True, True, True, True]:
+    elif fingers == [False, True, True, True, True]:
         return "ANSWER_D"
 
-    if fingers == [True, True, True, True, True]:
+    elif fingers == [True, True, True, True, True]:
         return "ANSWER_E"
 
     # ---- MOVEMENT GESTURES ----
-    if fingers == [True, False, False, False, False] and thumb_tip.y < thumb_ip.y:
+    elif fingers == [True, False, False, False, False] and thumb_tip.y < thumb_ip.y:
         return "MOVE_RIGHT"
 
-    if fingers == [True, False, False, False, False] and thumb_tip.y > thumb_ip.y:
+    elif fingers == [True, False, False, False, False] and thumb_tip.y > thumb_ip.y:
         return "MOVE_LEFT"
 
-    if fingers == [True, True, False, False, True]:
+    elif fingers == [True, True, False, False, True]:
         return "MOVE_UP"
 
-    if fingers == [False, False, False, False, False]:
+    elif fingers == [False, False, False, False, False]:
         return "MOVE_DOWN"
 
     return None
@@ -110,7 +110,7 @@ while True:
     now = time.time()
 
     # -------- MENU COOLDOWN + STABILIZATION --------
-    if current_gesture in ["ANSWER_A", "ANSWER_B", "ANSWER_C"]:
+    if current_gesture in ["ANSWER_A", "ANSWER_B", "ANSWER_C", "ANSWER_D", "ANSWER_E"]:
 
         if current_gesture == last_gesture:
             gesture_buffer += 1
