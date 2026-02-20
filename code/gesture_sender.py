@@ -52,7 +52,7 @@ def classify_gesture(fingers, landmarks):
     thumb_tip = landmarks.landmark[4]
     thumb_ip = landmarks.landmark[3]
 
-    # ---- MENU GESTURES (A/B/C) ----
+    # ---- MENU GESTURES (A/B/C/D/E) ----
     if fingers == [False, True, False, False, False]:
         return "ANSWER_A"
 
@@ -62,6 +62,12 @@ def classify_gesture(fingers, landmarks):
     if fingers == [False, True, True, True, False]:
         return "ANSWER_C"
 
+    if fingers == [False, True, True, True, True]:
+        return "ANSWER_D"
+
+    if fingers == [True, True, True, True, True]:
+        return "ANSWER_E"
+
     # ---- MOVEMENT GESTURES ----
     if fingers == [True, False, False, False, False] and thumb_tip.y < thumb_ip.y:
         return "MOVE_RIGHT"
@@ -69,7 +75,7 @@ def classify_gesture(fingers, landmarks):
     if fingers == [True, False, False, False, False] and thumb_tip.y > thumb_ip.y:
         return "MOVE_LEFT"
 
-    if fingers == [True, True, True, True, True]:
+    if fingers == [True, True, False, False, True]:
         return "MOVE_UP"
 
     if fingers == [False, False, False, False, False]:
