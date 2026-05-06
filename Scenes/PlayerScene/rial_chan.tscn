@@ -1,0 +1,48 @@
+[gd_scene load_steps=8 format=3 uid="uid://wyt7nxrcltqy"]
+
+[ext_resource type="Script" uid="uid://b8gwah7jp1bd" path="res://Scenes/PlayerScene/rial_chan.gd" id="1_vxyf4"]
+[ext_resource type="Texture2D" uid="uid://k4bbwgc654lq" path="res://Assets/CharacterAndEnemySprites/rialChan.png" id="1_yrse3"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_7hi0r"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jskc4"]
+atlas = ExtResource("1_yrse3")
+region = Rect2(0, 0, 50, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nhi1n"]
+atlas = ExtResource("1_yrse3")
+region = Rect2(50, 0, 50, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_skdra"]
+atlas = ExtResource("1_yrse3")
+region = Rect2(100, 0, 50, 50)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_u3hsi"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_jskc4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nhi1n")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_skdra")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="RialChan" type="Area2D"]
+script = ExtResource("1_vxyf4")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_7hi0r")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(0, -1)
+scale = Vector2(0.41499996, 0.39)
+sprite_frames = SubResource("SpriteFrames_u3hsi")
+autoplay = "default"
+frame_progress = 0.40282312

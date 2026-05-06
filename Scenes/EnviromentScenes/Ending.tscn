@@ -1,0 +1,52 @@
+[gd_scene load_steps=9 format=3 uid="uid://cbvepbmt6g8h6"]
+
+[ext_resource type="Script" uid="uid://ynxbn4uf33db" path="res://ending.gd" id="1_71llg"]
+[ext_resource type="Texture2D" uid="uid://ctq6iyvolnlur" path="res://Assets/EndingScreen.png" id="2_gp3fp"]
+[ext_resource type="Texture2D" uid="uid://hdi2mj7dlbbs" path="res://Assets/RetryButton.png" id="3_n5hdc"]
+[ext_resource type="Texture2D" uid="uid://csuf6gry4aafj" path="res://Assets/RetryButtonPressed.png" id="4_na8ob"]
+[ext_resource type="Texture2D" uid="uid://bul24s6xundhm" path="res://Assets/RetryButtonHover.png" id="5_uuwo4"]
+[ext_resource type="Texture2D" uid="uid://ivnv5dos52tw" path="res://Assets/Quitbutton.png" id="6_gyo6s"]
+[ext_resource type="Texture2D" uid="uid://dxxkhyvjeh5m4" path="res://Assets/Quitbuttonpressed.png" id="7_n5hdc"]
+[ext_resource type="Texture2D" uid="uid://b816txuhj6o7c" path="res://Assets/QuitbuttonHover.png" id="8_na8ob"]
+
+[node name="Ending" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_71llg")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1151.0
+offset_bottom = 646.0
+texture = ExtResource("2_gp3fp")
+
+[node name="Retry" type="TextureButton" parent="."]
+layout_mode = 0
+offset_left = 736.0
+offset_top = 307.0
+offset_right = 837.0
+offset_bottom = 347.0
+texture_normal = ExtResource("3_n5hdc")
+texture_pressed = ExtResource("4_na8ob")
+texture_hover = ExtResource("5_uuwo4")
+
+[node name="Quit" type="TextureButton" parent="."]
+layout_mode = 0
+offset_left = 737.0
+offset_top = 358.0
+offset_right = 837.0
+offset_bottom = 398.0
+texture_normal = ExtResource("6_gyo6s")
+texture_pressed = ExtResource("7_n5hdc")
+texture_hover = ExtResource("8_na8ob")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(517, 289)
+zoom = Vector2(1.115, 1.115)
+
+[connection signal="pressed" from="Retry" to="." method="_on_retry_pressed"]
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
