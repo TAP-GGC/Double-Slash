@@ -68,13 +68,15 @@ When a player enters battle, they will face different types of enemies. For exam
 1. Andreea Neculoiu, Isaiah Johnson, Wali Uzair, Wei Jin, Xin Xu. "//DoubleSlash", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
-<i>1. one 2. two 3. three</i>
-
-Example:
-
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>ASF(Atlanta Science Festival</b>, March 21 
+<i></i>
+1. <b>TAP Expo</b>, March 5, 2026, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Atlanta Science Festival (ASF) @ GGC</b>, March 7, 2026, Georgia Gwinnett College: A local event displaying STEM topics to allow young children in the community to learn about the sciences.
+3. <b>ASF @ Piedmont Park</b> March 21, 2026, Atlanta: On a much larger scale than the GGC event, ASF features universities and brands from around Atlanta to encourage the community to get involved with local clubs, find interest in their future school, and learn about different facets of science such as Information Technology.
+4. <b>Super Saturday</b> April 4, 2026, Georgia Gwinnett College: An engaging day of demonstrating STEM projects and hands on learning to middle school students.
+5. <b>STaRS</b> April 24, 2026, Georgia Gwinnett College: A showcase of research projects and innovation throughout the student body, where we hosted live demonstrations of our project to the fellow attendees.
+6. <b>Norcross Cluster Innovation Showcase</b> April 25, 2026, Downtown Norcross: An annual community event held in partnership with Gwinnett County Public Schools to spotlight student excellence in STEM, computer science, and the arts. We got invited to this event because of our demo at ASF in Atlanta.
+7. <b>CREATE Conference</b> May 1, 2026: CREATE hosts different styles of presentations and, similarly to STaRS, showcases research throughout the student body. We specifically hosted a short workshop detailing our data findings from pre and post survey data from our outreach workshops throughout the semester.
+8. <b>Class Workshops</b>, April 8-17, 2026, Georgia Gwinnett College: Workshops hosted in classrooms to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
