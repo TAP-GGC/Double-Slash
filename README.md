@@ -3,16 +3,16 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="Template Logo" src="media/logos/Transparent Version.png" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <h1 align="center">Project Template (Example: A Combat Game using AI + Webcam that Teaches the Fundamentals of Coding)</h1>
+  <p align="center">A project for students by team Retro </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to help students learn the fundamentals of coding in a fun and engaging way.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop has participants install the tools needed to run //DoubleSlash and learn the basic data types used in programming. They will also be able to change the values for speed, health, and damage in the code and see real-time changes when they run the game.
 
 ## :bulb: Project Information
 <!-- 
