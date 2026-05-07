@@ -68,9 +68,7 @@ When a player enters battle, they will face different types of enemies. For exam
 1. Andreea Neculoiu, Isaiah Johnson, Wali Uzair, Wei Jin, Xin Xu. "//DoubleSlash", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
-<i>one
-two
-three</i>
+<i>1. one 2. two 3. three</i>
 
 Example:
 
