@@ -47,7 +47,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
 
-> (From left to right: Batman,  Wonder Woman, Superman.)
+> (From left to right: Isaiah Johnson,  Andreea Neculoiu, Wali Uzair.)
 <!-- replace with full names of your team members -->
 
 * Isaiah Johnson
@@ -61,14 +61,16 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+When a player enters battle, they will face different types of enemies. For example, if the player is going up against the 'Integer Enemy', they can only use integers to defeat it. Throughout the game, the user can move their character and choose the options in battle with hand gestures.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+1. Andreea Neculoiu, Isaiah Johnson, Wali Uzair, Wei Jin, Xin Xu. "//DoubleSlash", Fake Event, April 1, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
+<i>one
+two
+three</i>
 
 Example:
 
