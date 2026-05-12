@@ -143,21 +143,21 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 
 ## Setting up the game with Godot
 
-<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+### Step 1: 
 
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
+## Getting to the game 
+
 
 ## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
 1. 👎 to move to the left.
 2. 👍 to move to the right.
 3. 🤟 to move up.
 4. ✊ to move down.
-5. You may also replace the gestures with the keyboard using A (left), D (right), W  (up), S (down).
+5. ☝️ to choose Option 1 in battle.
+6. ✌️ to choose Option 2 in battle.
+7. 3 fingers up (index, middle, ring) to choose Option 3 in battle.
+8. 4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
+9. You may also replace the gestures with the keyboard using A (left), D (right), W  (up), S (down).
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
