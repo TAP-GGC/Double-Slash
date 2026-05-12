@@ -61,7 +61,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-When a player enters battle, they will face different types of enemies. For example, if the player is going up against the 'Integer Enemy', they can only use integers to defeat it. Throughout the game, the user can move their character and choose the options in battle with hand gestures.
+A player will enter battle and face different types of enemies. For example, if the player is going up against the 'Integer Enemy', they can only use integers to defeat it. Throughout the game, the user can move their character and choose the options in battle with hand gestures.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
