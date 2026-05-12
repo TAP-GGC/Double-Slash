@@ -166,11 +166,22 @@ notepad gesture_sender.py
 python gesture_sender.py
 ```
 * Give it a few seconds and a tab with your webcam should open
-* Use ```'q'``` to close the webcam tab
+* Use ```'q'``` to close the webcam tab (after you play the game)
 
 ## Setting up the game with Godot
 
-### Step 1: 
+### Step 1: Download the .zip file
+* Go to our [//DoubleSlash repository](https://github.com/TAP-GGC/Double-Slash) in our Github
+* Click on the green <>Code button
+* Under 'Local', click on 'Download ZIP'
+
+### Step 2: Extract the .zip file
+* Find your downloaded .zip in your File Explorer
+* Right click and Extract All
+
+### Step 3: Open //DoubleSlash
+* Look for the Double Slash.exe file in the extracted .zip file
+* Double click on it to begin //DoubleSlash
 
 ## Getting to the game 
 
