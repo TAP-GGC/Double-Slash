@@ -89,8 +89,8 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Godot Logo" src = "media/logos/godotlogo.png" width="200" height="200"/>
-  <img alt="MediaPipe Logo" src = "media/logos/mediapipelogo.png" width="200" height="200"/>
-  <img alt="OpenCV Logo" src = "media/logos/opencvlogo.png" width="200" height="200"/>
+  <img alt="MediaPipe Logo" src = "media/logos/mediapipelogo2.png" width="200" height="200"/>
+  <img alt="OpenCV Logo" src = "media/logos/opencvlogo.png" width="100" height="100"/>
   <img alt="Python Logo" src = "media/logos/pythonlogo.png" width="200" height="200"/>
   <img alt="Pixilart Logo" src = "media/logos/pixilartlogo.png" width="200" height="200"/>
 </p>
