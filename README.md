@@ -79,7 +79,6 @@ When a player enters battle, they will face different types of enemies. For exam
 8. <b>Class Workshops</b>, April 8-17, 2026, Georgia Gwinnett College: Workshops hosted in classrooms to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
 
 If you're interested in more workshops that teach the fundamentals of coding in a fun way, check out [Light Up](https://tapggc.org/projects/2022/fall/light-up/)!
 
