@@ -115,7 +115,10 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 
 ### Step 2: Verify that Python is installed
 * Open Command Prompt on your laptop
-* Type: ```python py -V```
+* Type:
+```
+py -V
+```
 * You should see Python 3.11.9
 
 ### Step 3: Create a project folder
