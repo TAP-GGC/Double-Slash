@@ -111,10 +111,10 @@ Your repo doesn't have to have every section used below. This is just an example
 
 ### Setting up the AI + Webcam
 Step 1: Download Python 3.11.9 from [python.org](https://www.python.org/)
-          * Go to 'Downloads' and scroll to 'Looking for a specific release?'
-          * Download version 3.11.9
-          * Check "Add Python to PATH"
-          * Enable long path 
+* Go to 'Downloads' and scroll to 'Looking for a specific release?'
+* Download version 3.11.9
+* Check "Add Python to PATH"
+* Enable long path 
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
