@@ -81,7 +81,9 @@ When a player enters battle, they will face different types of enemies. For exam
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
 
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+If you're interested in more workshops that teach the fundamentals of coding in a fun way, check out [Light Up](https://tapggc.org/projects/2022/fall/light-up/)!
+
+If you're interested in more workshops that use AI, check out [AI Art Photos](https://tapggc.org/projects/2025/spring/ai-art-photos/)!
 
 ## :computer: Technology
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
