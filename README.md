@@ -100,9 +100,9 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 * Python is a high-level programming language known for its simple, readable syntax. Popular for beginners and experts alike, it is open-source and supports multiple platforms.
 * Pixilart is a free, web-based drawing application and social platform designed for creating pixel art, game sprites, and animations.
 
-<i> <p align="center">
+<!-- <i> <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
-</p> </i>
+</p> -->
 
 ## Project Setup/Installation 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
