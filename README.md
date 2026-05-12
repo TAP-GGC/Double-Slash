@@ -85,7 +85,6 @@ If you're interested in more workshops that teach the fundamentals of coding in 
 If you're interested in more workshops that use AI, check out [AI Art Photos](https://tapggc.org/projects/2025/spring/ai-art-photos/)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="Godot Logo" src = "media/logos/godotlogo.png" width="200" height="200"/>
@@ -101,9 +100,9 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 * Python is a high-level programming language known for its simple, readable syntax. Popular for beginners and experts alike, it is open-source and supports multiple platforms.
 * Pixilart is a free, web-based drawing application and social platform designed for creating pixel art, game sprites, and animations.
 
-<p align="center">
+<i> <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
-</p>
+</p> </i>
 
 ## Project Setup/Installation 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
