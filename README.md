@@ -176,14 +176,14 @@ python gesture_sender.py
 
 
 ## Usage
-1. 👎 to move to the left.
-2. 👍 to move to the right.
-3. 🤟 to move up.
-4. ✊ to move down.
-5. ☝️ to choose Option 1 in battle.
-6. ✌️ to choose Option 2 in battle.
-7.  3 fingers up (index, middle, ring) to choose Option 3 in battle.
-8.  4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
+1. Thumbs down 👎 to move to the left.
+2. Thumbs up 👍 to move to the right.
+3. 3 fingers up (thumb, index, pinky) 🤟 to move up.
+4. Fist ✊ to move down.
+5. 1 finger up (index) ☝️ to choose Option 1 in battle.
+6. 2 fingers up (index, middle) ✌️ to choose Option 2 in battle.
+7. 3 fingers up (index, middle, ring) to choose Option 3 in battle.
+8. 4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
 9. You may also replace the gestures with the keyboard using A (left), D (right), W (up), S (down).
 
 ## Short Demo Instructions 
