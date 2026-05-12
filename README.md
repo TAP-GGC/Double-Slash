@@ -115,7 +115,7 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 
 ### Step 2: Verify that Python is installed
 * Open Command Prompt on your laptop
-* Type:
+* To verify the verision of Python installed, type:
 ```
 py -V
 ```
@@ -123,24 +123,39 @@ py -V
 
 ### Step 3: Create a project folder
 * Still in Command Prompt, type: mkdir gesture-ai
-* To enter the folder, type: cd gesture-ai
+* To enter the folder, type:
+```
+cd gesture-ai
+```
 * It should look like: C:\Users\<yourusername>\gesture-ai>
 
 ### Step 4: Create a virtual environment
-* Still in Command Prompt in the gesture-ai folder, type: venv311\Scripts\activate
+* Still in Command Prompt in the gesture-ai folder, type:
+```
+venv311\Scripts\activate
+```
 * You should see: (venv311) C:\Users\<yourusername>\gesture-ai>
 
 ### Step 5: Install required libraries
 * Still in Command Prompt in the gesture-ai virtual environment, type: pip install mediapipe==0.10.21 opencv-python numpy
-* To verify the install, type: pip show mediapipe
+* To verify the install, type:
+```
+pip show mediapipe
+```
 * You should see: Version 0.10.21
 
 ### Step 6: Create a file for AI + Webcam
-* To create the file, type: notepad gesture_sender.py
+* To create the file, type:
+```
+notepad gesture_sender.py
+```
 * Copy and paste the code from the [gesteure_sender.py](https://github.com/TAP-GGC/Double-Slash/blob/main/AI_code/GestureAICode/gesture_sender.py) file in our Github
 
 ### Step 7: Open the AI + Webcam
-* To open the AI + Webcam, type: python gesture_sender.py
+* To open the AI + Webcam, type:
+```
+python gesture_sender.py
+```
 * Give it a few seconds and a tab with your webcam should open
 * Use 'q' to close the webcam tab
 
