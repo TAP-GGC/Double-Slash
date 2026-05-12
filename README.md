@@ -138,15 +138,20 @@ cd gesture-ai
 ```
 venv311\Scripts\activate
 ```
-* You should see: (venv311) C:\Users\<yourusername>\gesture-ai>
+* You should see:
+```(venv311) C:\Users\<yourusername>\gesture-ai>```
 
 ### Step 5: Install required libraries
-* Still in Command Prompt in the gesture-ai virtual environment, type: pip install mediapipe==0.10.21 opencv-python numpy
+* Still in Command Prompt in the gesture-ai virtual environment, type:
+```
+pip install mediapipe==0.10.21 opencv-python numpy
+```
 * To verify the install, type:
 ```
 pip show mediapipe
 ```
-* You should see: Version 0.10.21
+* You should see:
+```Version 0.10.21```
 
 ### Step 6: Create a file for AI + Webcam
 * To create the file, type:
@@ -161,7 +166,7 @@ notepad gesture_sender.py
 python gesture_sender.py
 ```
 * Give it a few seconds and a tab with your webcam should open
-* Use 'q' to close the webcam tab
+* Use ```'q'``` to close the webcam tab
 
 ## Setting up the game with Godot
 
