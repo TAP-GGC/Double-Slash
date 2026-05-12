@@ -90,9 +90,11 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
   <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* Godot is a free, open-source game engine designed to create 2D and 3D games. It is known for being beginner-friendly, featuring a dedicated 2D engine and supporting scripting in GDScript (similar to Python), C#, and C++.
+* Mediapipe is a framework developed by Google for building and deploying high-performance machine learning (ML) solutions for live and streaming data. It is a set of tools and libraries under the Google AI Edge initiative, designed to simplify on-device ML development for mobile, web, desktop and IoT platforms.
+* OpenCV (Open Source Computer Library) is the world's largest open-source library for computer vision, image processing, and machine learning. It provides over 2,500 algorithms to detect faces, identify objects, track motions, and process images in real-time.
+* Python is a high-level programming language known for its simple, readable syntax. Popular for beginners and experts alike, it is open-source and supports multiple platforms.
+* Pixilart is a free, web-based drawing application and social platform designed for creating pixel art, game sprites, and animations.
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
