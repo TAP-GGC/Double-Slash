@@ -116,30 +116,35 @@ Your repo doesn't have to have every section used below. This is just an example
 * Check "Add Python to PATH"
 * Enable long path support
 
-Step 2: Verify that Python is installed
+### Step 2: Verify that Python is installed
 * Open Command Prompt on your laptop
 * Type: py -V
 * You should see Python 3.11.9
 
-Step 3: Create a project folder
+### Step 3: Create a project folder
 * Still in Command Prompt, type: mkdir gesture-ai
 * To enter the folder, type: cd gesture-ai
 * It should look like: C:\Users\<yourusername>\gesture-ai>
 
-Step 4: Create a virtual environment
+### Step 4: Create a virtual environment
 * Still in Command Prompt in the gesture-ai folder, type: venv311\Scripts\activate
 * You should see: (venv311) C:\Users\<yourusername>\gesture-ai>
 
-Step 5: Install required libraries
+### Step 5: Install required libraries
 * Still in Command Prompt in the gesture-ai virtual environment, type: pip install mediapipe==0.10.21 opencv-python numpy
 * To verify the install, type: pip show mediapipe
 * You should see: Version 0.10.21
 
-Step 6: Create a file for AI + Webcam
+### Step 6: Create a file for AI + Webcam
 * To create the file, type: notepad gesture_sender.py
-* Copy and paste the code from the [gesteure_sender.py](https://github.com/TAP-GGC/Double-Slash/blob/main/AI_code/GestureAICode/gesture_sender.py) file in our Github 
+* Copy and paste the code from the [gesteure_sender.py](https://github.com/TAP-GGC/Double-Slash/blob/main/AI_code/GestureAICode/gesture_sender.py) file in our Github
 
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
+### Step 7: Open the AI + Webcam
+* To open the AI + Webcam, type: python gesture_sender.py
+* Give it a few seconds and a tab with your webcam should open
+* Use 'q' to close the webcam tab
+
+## Setting up the game with Godot
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## CS First Installation Walkthrough
