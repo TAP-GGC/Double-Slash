@@ -153,11 +153,11 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 ## Usage
 <i> Describe HOW to use your game. </i> 
 Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+1. 👎 to move to the left.
+2. 👍 to move to the right.
+3. 🤟 to move up.
+4. ✊ to move down.
+5. You may also replace the gestures with the keyboard using A (left), D (right), W  (up), S (down).
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
