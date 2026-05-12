@@ -168,7 +168,7 @@ python gesture_sender.py
 * Give it a few seconds and a tab with your webcam should open
 * Use ```'q'``` to close the webcam tab (after you play the game)
 
-## Setting up the game with Godot
+## Setting up //DoubleSlash
 
 ### Step 1: Download the .zip file
 * Go to our [//DoubleSlash repository](https://github.com/TAP-GGC/Double-Slash) in our Github
