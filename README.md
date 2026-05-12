@@ -104,7 +104,7 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 <img src = "media/technology/block-based language.png" width ="400" height="200">
 </p> -->
 
-## Project Setup/Installation 
+# Project Setup/Installation 
 
 ## Setting up the AI + Webcam
 ### Step 1: Download Python 3.11.9 from [python.org](https://www.python.org/)
