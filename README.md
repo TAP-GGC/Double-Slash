@@ -183,9 +183,6 @@ python gesture_sender.py
 * Look for the Double Slash.exe file in the extracted .zip file
 * Double click on it to begin //DoubleSlash
 
-## Getting to the game 
-
-
 ## Usage
 1. Thumbs down 👎 to move to the left.
 2. Thumbs up 👍 to move to the right.
