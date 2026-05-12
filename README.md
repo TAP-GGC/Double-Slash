@@ -88,7 +88,11 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Godot Logo" src = "media/technology/godotlogo.png" width="200" height="200"/>
+  <img alt="MediaPipe Logo" src = "media/technology/mediapipelogo.png" width="200" height="200"/>
+  <img alt="OpenCV Logo" src = "media/technology/opencvlogo.png" width="200" height="200"/>
+  <img alt="Python Logo" src = "media/technology/pythonlogo.png" width="200" height="200"/>
+  <img alt="Pixilart Logo" src = "media/technology/pixilartlogo.png" width="200" height="200"/>
 </p>
 
 * Godot is a free, open-source game engine designed to create 2D and 3D games. It is known for being beginner-friendly, featuring a dedicated 2D engine and supporting scripting in GDScript (similar to Python), C#, and C++.
