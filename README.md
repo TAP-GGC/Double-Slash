@@ -105,9 +105,6 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 </p> -->
 
 ## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
 ## Setting up the AI + Webcam
 ### Step 1: Download Python 3.11.9 from [python.org](https://www.python.org/)
