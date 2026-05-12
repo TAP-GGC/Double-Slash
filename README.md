@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="Template Logo" src="media/logos/DoubleSlashLogo.png" width="" height="350" />
   <h1 align="center">A Combat Game using AI + Webcam that Teaches the Fundamentals of Coding</h1>
-  <p align="center">A project for students by team Retro </p>
+  <p align="center">A project for students who want a fun way to learn about coding by team Retro </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
