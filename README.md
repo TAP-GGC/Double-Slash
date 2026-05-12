@@ -194,7 +194,7 @@ python gesture_sender.py
 8. 4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
 9. You may also replace the gestures with the keyboard using A (left), D (right), W (up), S (down).
 
-Click [here](file:///C:/Users/andre/OneDrive/Documents/Gestures.pdf) to download a pdf verision of the gestures.
+Click [here](https://github.com/TAP-GGC/Double-Slash/blob/main/documents/tutorial%20materials/Gestures.pdf) to view our gestures as a PDF.
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
