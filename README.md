@@ -155,9 +155,9 @@ If you're interested in more workshops that use AI, check out [AI Art Photos](ht
 4. ✊ to move down.
 5. ☝️ to choose Option 1 in battle.
 6. ✌️ to choose Option 2 in battle.
-7. 3 fingers up (index, middle, ring) to choose Option 3 in battle.
-8. 4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
-9. You may also replace the gestures with the keyboard using A (left), D (right), W  (up), S (down).
+7.  3 fingers up (index, middle, ring) to choose Option 3 in battle.
+8.  4 fingers up (index, middle, ring, pinky) to click past the text box in battle.
+9. You may also replace the gestures with the keyboard using A (left), D (right), W (up), S (down).
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
