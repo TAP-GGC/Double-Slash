@@ -65,7 +65,7 @@ A player will enter battle and face different types of enemies. For example, if 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Andreea Neculoiu, Isaiah Johnson, Wali Uzair, Wei Jin, Xin Xu. "//DoubleSlash", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+1. Andreea Neculoiu, Isaiah Johnson, Wali Uzair, Wei Jin, Xin Xu. "//DoubleSlash", CREATES Conference, May 1, 2026, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
 <i></i>
@@ -75,7 +75,7 @@ A player will enter battle and face different types of enemies. For example, if 
 4. <b>Super Saturday</b> April 4, 2026, Georgia Gwinnett College: An engaging day of demonstrating STEM projects and hands on learning to middle school students.
 5. <b>STaRS</b> April 24, 2026, Georgia Gwinnett College: A showcase of research projects and innovation throughout the student body, where we hosted live demonstrations of our project to the fellow attendees.
 6. <b>Norcross Cluster Innovation Showcase</b> April 25, 2026, Downtown Norcross: An annual community event held in partnership with Gwinnett County Public Schools to spotlight student excellence in STEM, computer science, and the arts. We got invited to this event because of our demo at ASF in Atlanta.
-7. <b>CREATE Conference</b> May 1, 2026: CREATE hosts different styles of presentations and, similarly to STaRS, showcases research throughout the student body. We specifically hosted a short workshop detailing our data findings from pre and post survey data from our outreach workshops throughout the semester.
+7. <b>CREATES Conference</b> May 1, 2026: CREATE hosts different styles of presentations and, similarly to STaRS, showcases research throughout the student body. We specifically hosted a short workshop detailing our data findings from pre and post survey data from our outreach workshops throughout the semester.
 8. <b>Class Workshops</b>, April 8-17, 2026, Georgia Gwinnett College: Workshops hosted in classrooms to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
